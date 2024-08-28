@@ -36,5 +36,5 @@ jobs:
 
     - name: Run the Python script
       run: |
-        python machine_learning.py
+        python machine_kearning.py
 
